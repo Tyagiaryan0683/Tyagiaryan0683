@@ -24,11 +24,11 @@
 I'm a **self-driven Angular developer** who believes in writing clean, maintainable code and creating exceptional user experiences. Starting as a Frontend Intern at Novoinvent Softwares in September 2024, I consistently delivered high-quality Angular applications and was **promoted to full-time SDE in March 2025**—a journey of growth, learning, and impact in just 6 months.
 
 ### What Makes Me Different
-- ** Goal-Oriented:** I don't just write code; I solve real problems for real users
-- ** Lifelong Learner:** Constantly exploring new technologies & best practices
-- ** Team Player:** Love collaborating, mentoring, and growing together
-- ** Passionate:** Obsessed with clean architecture & performance optimization
-- ** Quick Adapter:** Rapidly learn new frameworks, patterns & methodologies
+- **Goal-Oriented:** I don't just write code; I solve real problems for real users
+- **Lifelong Learner:** Constantly exploring new technologies & best practices
+- **Team Player:** Love collaborating, mentoring, and growing together
+- **Passionate:** Obsessed with clean architecture & performance optimization
+- **Quick Adapter:** Rapidly learn new frameworks, patterns & methodologies
 
 ---
 
